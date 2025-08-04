@@ -1,5 +1,12 @@
 import requests
-from api_file import API_KEY
+
+# from api_file import API_KEY
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+API_KEY = os.getenv("API_KEY")
+
 
 BASE_URL = "http://api.weatherapi.com/v1/forecast.json"
 
