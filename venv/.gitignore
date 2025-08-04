@@ -23,4 +23,4 @@ Thumbs.db
 .env
 
 # Ignore API key file if separate
-api_file.py
+/api_file.py
