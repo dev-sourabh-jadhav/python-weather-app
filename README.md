@@ -1,10 +1,10 @@
-# 🌦️ Python Weather App
+# Python Weather App
 
 This is a simple command-line weather forecast application built with Python. It fetches current weather and a 3-day forecast using [WeatherAPI](https://www.weatherapi.com/).
 
 ---
 
-## 🔧 Features
+##  Features
 
 - Current weather conditions
 - 3-day weather forecast
